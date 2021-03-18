@@ -1,0 +1,100 @@
+Aripiprazole
+Adalimumab
+Esomeprazole
+Rosuvastatin
+Etanercept
+Fluticasone/salmeterol
+Infliximab
+Insulin glargine
+Pegfilgrastim
+Glatiramer
+Rituximab
+Tiotropium bromide
+Sitagliptin
+Insulin glargine
+Emtricitabine/tenofovir/efavirenz
+Duloxetine
+Bevacizumab
+Pregabalin
+Oxycodone
+Celecoxib
+Epoetin alfa
+Tenofovir/emtricitabine
+Valsartan
+Insulin detemir
+Imatinib
+Trastuzumab
+Lisdexamfetamine
+Ranibizumab
+Ezetimibe
+Ipratropium bromide/salbutamol
+Budesonide/formoterol
+Memantine
+Insulin aspart
+Rivaroxaban
+Insulin aspart
+Insulin lispro
+Buprenorphine
+Sildenafil
+Quetiapine
+Telaprevir
+Testosterone gel
+Enoxaparin
+Methylphenidate
+Salbutamol
+Pemetrexed
+Liraglutide
+Palivizumab
+Interferon beta 1a
+Sevelamer
+Interferon beta 1a
+Tadalafil
+fingolimod
+Mometasone
+Ustekinumab
+Ciclosporin ophthalmic emulsion
+Budesonide
+Acetaminophen/hydrocodone
+Fluticasone propionate
+Omega-3 fatty acid ethyl esters
+Darunavir
+Raltegravir
+Sitagliptin/metformin
+Epoetin alfa
+Doxycycline
+Abatacept
+Amphetamine mixed salts
+Solifenacin
+Dexlansoprazole
+Insulin lispro
+Filgrastim
+Lidocaine
+Eszopiclone
+Fenofibrate
+Abiraterone
+Atazanavir
+Cinacalcet
+Metoprolol
+Rabeprazole
+Levothyroxine
+Olmesartan
+Pneumococcal conjugate vaccine
+Omalizumab
+Atorvastatin
+Levothyroxine
+Olmesartan/hydrochlorothiazide
+Elvitegravir/cobicistat/emtricitabine/tenofovir
+Zostavax
+Dabigatran
+Ezetimibe/simvastatin
+Oseltamivir
+Denosumab
+Raloxifene
+Capecitabine
+Darbepoetin alfa
+Salbutamol
+Valproate
+Everolimus
+Interferon beta 1b
+Amphetamine mixed salts
+Emtricitabine/Rilpivirine/Tenofovir disoproxil fumarate
